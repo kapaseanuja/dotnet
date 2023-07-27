@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "services", "services\services.csproj", "{7AE71841-3B34-4E6A-A689-633606DD2A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "discount", "discount\discount.csproj", "{F67F5435-2A3E-45E9-A37E-F5DD2E47D951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ordering", "ordering\ordering.csproj", "{3DCF4BA7-0733-423B-85E6-234820B6D275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE71841-3B34-4E6A-A689-633606DD2A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE71841-3B34-4E6A-A689-633606DD2A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE71841-3B34-4E6A-A689-633606DD2A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE71841-3B34-4E6A-A689-633606DD2A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67F5435-2A3E-45E9-A37E-F5DD2E47D951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67F5435-2A3E-45E9-A37E-F5DD2E47D951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67F5435-2A3E-45E9-A37E-F5DD2E47D951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67F5435-2A3E-45E9-A37E-F5DD2E47D951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCF4BA7-0733-423B-85E6-234820B6D275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCF4BA7-0733-423B-85E6-234820B6D275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCF4BA7-0733-423B-85E6-234820B6D275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCF4BA7-0733-423B-85E6-234820B6D275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
