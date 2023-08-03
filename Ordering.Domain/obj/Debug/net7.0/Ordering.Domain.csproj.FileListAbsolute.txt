@@ -1,0 +1,12 @@
+/Users/anujakapase/DotNet/Ordering.Domain/bin/Debug/net7.0/Ordering.Domain.deps.json
+/Users/anujakapase/DotNet/Ordering.Domain/bin/Debug/net7.0/Ordering.Domain.dll
+/Users/anujakapase/DotNet/Ordering.Domain/bin/Debug/net7.0/Ordering.Domain.pdb
+/Users/anujakapase/DotNet/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.csproj.AssemblyReference.cache
+/Users/anujakapase/DotNet/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anujakapase/DotNet/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.AssemblyInfoInputs.cache
+/Users/anujakapase/DotNet/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.AssemblyInfo.cs
+/Users/anujakapase/DotNet/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.csproj.CoreCompileInputs.cache
+/Users/anujakapase/DotNet/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.dll
+/Users/anujakapase/DotNet/Ordering.Domain/obj/Debug/net7.0/refint/Ordering.Domain.dll
+/Users/anujakapase/DotNet/Ordering.Domain/obj/Debug/net7.0/Ordering.Domain.pdb
+/Users/anujakapase/DotNet/Ordering.Domain/obj/Debug/net7.0/ref/Ordering.Domain.dll

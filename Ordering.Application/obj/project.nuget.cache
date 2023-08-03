@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "i8zYVjMdpYq9c88f5nrY4Vx79AFhV4JfSht4sHEpqcmkyORzP2EbHrQ8lG/KjPzsNBVnosyqckh0+GPp4K28lQ==",
+  "success": true,
+  "projectFilePath": "/Users/anujakapase/DotNet/Ordering.Application/Ordering.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/anujakapase/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/anujakapase/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/anujakapase/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/anujakapase/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/anujakapase/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/anujakapase/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

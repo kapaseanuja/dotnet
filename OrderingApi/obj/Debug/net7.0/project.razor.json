@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "/Users/anujakapase/DotNet/discount/obj/Debug/net7.0/project.razor.json",
-  "FilePath": "/Users/anujakapase/DotNet/discount/discount.csproj",
+  "SerializedFilePath": "/Users/anujakapase/DotNet/OrderingApi/obj/Debug/net7.0/project.razor.json",
+  "FilePath": "/Users/anujakapase/DotNet/OrderingApi/OrderingApi.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -18642,7 +18642,7 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "discount",
+  "RootNamespace": "OrderingApi",
   "Documents": [],
   "SerializationFormat": "0.3"
 }
